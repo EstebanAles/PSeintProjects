@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	ESCRIBIR "LA SUMA DE 2 NUMEROS ENTEROS"
+	ESCRIBIR "EL PRIMER VALOR"
+	LEER N1
+	Escribir "EL SEGUNDO VALOR"
+	LEER N2
+	S <- N1 + N2
+	ESCRIBIR "LA SUMA ES:", S
+FinAlgoritmo
