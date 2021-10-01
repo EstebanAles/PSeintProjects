@@ -8,3 +8,9 @@ Algoritmo sin_titulo
 	ESCRIBIR "EL COCIENTE ES:", C
 	ESCRIBIR "EL RESIDUO ES:", R
 FinAlgoritmo
+
+
+
+
+
+
