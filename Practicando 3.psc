@@ -10,6 +10,4 @@ Algoritmo sin_titulo
 	ESCRIBIR "LA RESTA ES:", b
 	ESCRIBIR "LA MULTIMPLACION ES:", c
 	Escribir "LA DIVISION ES:", d
-	Escribir "AQUI HAY UN ERROR ARREGLAME"
-	Definir a
 FinAlgoritmo
